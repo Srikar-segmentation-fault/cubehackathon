@@ -1,0 +1,17 @@
+[
+  {
+    "part_name": "bottle_body",
+    "description": "Main insulated steel bottle body",
+    "essential": true
+  },
+  {
+    "part_name": "screw_lid",
+    "description": "Screw-on lid with carry loop",
+    "essential": true
+  },
+  {
+    "part_name": "silicone_base_ring",
+    "description": "Protective silicone ring around the base",
+    "essential": false
+  }
+]

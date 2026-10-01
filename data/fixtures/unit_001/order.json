@@ -1,0 +1,10 @@
+{
+  "subject": "RMA-DEMO-0001",
+  "organization_id": "org-demo",
+  "client_id": "client-demo",
+  "operator_label": "Day 1 skeleton smoke test unit",
+  "sku": "SKU-BOTTLE-750",
+  "asin": null,
+  "product_name": "750ml Insulated Steel Water Bottle",
+  "product_description": "Double-wall insulated stainless steel water bottle, 750ml, with screw-on lid and silicone base ring. Sold new in a printed cardboard sleeve."
+}

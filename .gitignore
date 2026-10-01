@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+evidence_store/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+data/eval_set/frozen_labels.jsonl
+data/uploads/
